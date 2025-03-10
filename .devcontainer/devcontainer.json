@@ -6,7 +6,7 @@
   "image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {},
-    "ghcr.io/meaningful-ooo/devcontainer-features/fish:1": {}
+    "ghcr.io/meaningful-ooo/devcontainer-features/fish:2": {}
   },
 
   // "runArgs": ["--device", "/dev/serial/by-id/usb-USB_Adapter_USB_Device-if00:/dev/scanner"]
